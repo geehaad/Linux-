@@ -64,4 +64,4 @@ The Linux crontab command
 The Linux uname command
 The Linux env command
 The Linux printenv command
-<pr>
+</pr>
