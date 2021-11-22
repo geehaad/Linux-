@@ -3,6 +3,7 @@
 🔗 The Linux Command Handbook by Flavio Copes:
 https://www.freecodecamp.org/news/the-linux-commands-handbook/
 
+Linux commands can be found in linux.docs 
 <ul>
   <li>
 Introduction to Linux and shells
