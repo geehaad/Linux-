@@ -21,6 +21,7 @@ Richard Stallman was a leader in the group pf developers who aimed to create fre
 In 1984, he began work on the GNU project, with the goal of creating an operating system that included “everything that normally comes with a Unix system so that one could get along without any software that is not Free”<br>
 
 <h2>The Linux Kernel</h2>
+<img src="Picture1.png">
 Another developer, Linux Torvalds, was 
 working on creating his own Kerner known as Linux.
 The Kernel is the part of an OS that facilities interactions between hardware and software.
