@@ -2,7 +2,7 @@
 
 🔗 The Linux Command Handbook by Flavio Copes:
 https://www.freecodecamp.org/news/the-linux-commands-handbook/
-
+<pr>
 Introduction to Linux and shells
 The Linux man command
 The Linux ls command
@@ -64,3 +64,4 @@ The Linux crontab command
 The Linux uname command
 The Linux env command
 The Linux printenv command
+<pr>
