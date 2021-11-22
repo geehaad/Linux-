@@ -32,12 +32,16 @@ Torvalds combined his kernel with the existing GNU components to create a full o
 A Linux distribution bundles together the Linux Kernel, GNU tools, documentation, a package manager, a window system, and desktop environment.
 
 <h2>Shell</h2>
+<img src="Picture2.png">
 A shell is a computer interface to an operating system.
 Shells expose the os’s services to human users or other programs.
 The shell takes our commands and gives them to the operating system to perform. 
 
 <h2>Terminal</h2> 
 A terminal ia a program that runs a shell.
+
+<img src="Picture3.png">
+<img src="Picture4.png">
 
 <h2>How to use Linux on windows?</h2>
 	Windows subsystem for Linux.
